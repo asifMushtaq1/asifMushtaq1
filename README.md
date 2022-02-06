@@ -1,8 +1,9 @@
-I'm Asif Mushtaq, a Developer 🚀 from Pakistan.
-Github Linkedin Twitter Badge Instagram Gmail Website Badge  
+# I'm Asif Mushtaq, a Developer 🚀 from Pakistan.
+
+
 
 👨‍💻 Whoami
-A highly resourceful react developer. Proficient in javascript, html/css and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+## A highly resourceful react developer. Proficient in javascript, html/css and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
 
 https://github.com/asifMushtaq1
 
