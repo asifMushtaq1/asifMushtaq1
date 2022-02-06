@@ -62,7 +62,7 @@ You can use the website to generate badges: https://shields.io/
 ### Open Source:
 
 
-![](https://github-readme-stats.vercel.app/api?username=asifMushta1&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=asifMushtaq1&show_icons=true)
 
  <hr>
 <p align="center">
