@@ -15,7 +15,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h2 align="center"> 👨‍💻 Whoami</h2>
 <p align="center">
-  <samp>A highly resourceful react developer. Proficient in Java, Kotlin and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+  <samp>A highly resourceful react developer. Proficient in Javascript, HTML/CSS3 and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
   </samp>
   <br> <br>
   <img src="https://komarev.com/ghpvc/?username=asifMushtaq" alt="https://github.com/asifMushtaq1" />
