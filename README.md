@@ -2,8 +2,8 @@
 
 
 
-👨‍💻 Whoami
-## A highly resourceful react developer. Proficient in javascript, html/css and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
+                                                                              👨‍💻 Whoami
+A highly resourceful react developer. Proficient in javascript, html/css and version control framework. Highly motivated, quick learner, hard working and experienced in working in a fast paced environment
 
 https://github.com/asifMushtaq1
 
